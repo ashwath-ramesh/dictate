@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>com.ash.dictate</string>
+    <key>CFBundleName</key><string>Dictate</string>
+    <key>CFBundleDisplayName</key><string>Dictate</string>
+    <key>CFBundleExecutable</key><string>Dictate</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>26.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSMicrophoneUsageDescription</key><string>Dictate listens to your microphone while you dictate. Audio is transcribed on this Mac and never leaves it.</string>
+    <key>NSSpeechRecognitionUsageDescription</key><string>Dictate uses Apple's on-device speech recognition to turn your voice into text.</string>
+</dict>
+</plist>
